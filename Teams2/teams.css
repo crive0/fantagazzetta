@@ -1,0 +1,196 @@
+.page{
+    background-color: #f5f5f5;
+}
+
+.page-content{
+    display: flex;
+    border: 1px solid;
+    border-radius: 22px;
+}
+
+.formation-container ul li{
+    list-style: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    padding: 0;
+}
+
+h1, p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    width: 100%;
+}
+
+.formation-container{
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+}
+
+.central-part{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.central-part, .left-part, .right-part{
+    width: calc(100% / 3);
+}
+
+.left-part{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-part{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.technical-comment-container{
+    display: flex;
+    align-items: center;
+    padding:  10px 60px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 1px solid;
+    flex-direction: column;
+    background-color: #ff99003d;
+}
+
+.technical-comment{
+    margin: 0;
+    padding: 20px 50px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.season-average{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mic-coach-container{
+    display: flex;
+    place-self: flex-start;
+}
+
+.coach-name{
+    font-style: italic;
+}
+
+.grade-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.season-average-title{
+    font-size: 40px;
+}
+
+.top-header{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    padding: 50px;
+    padding: 10px 40px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: pink;
+}
+
+.top-header > div{
+    width: calc(100% / 3);
+    display: flex;
+    align-items: center;
+}
+
+.title{
+    font-style: italic;
+}
+
+.title-sponsor{
+    text-align: center;
+}
+
+.logo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.team-title{
+    text-align: center;
+}
+
+@media only screen and (min-width:769px){
+    .mobile-version, .formation-mobile,.mobile-sponsor, .mobile-title{
+        display: none;
+    }
+}
+@media only screen and (max-width:768px){
+    .desktop-version{
+        display: none;
+    }
+    .page-content{
+        height: 100px;
+    }
+
+    .formation-container{
+        align-items: center;
+        border: 1px solid;
+        border-radius: 22px;
+        padding: 5px;
+        margin: 10px 0;
+        background-color: darkseagreen;
+    }
+
+    .technical-comment-container{
+        padding: 10px;
+    }
+
+    .mobile-title{
+        text-align: left;
+        text-decoration: underline;
+    }
+
+    .top-header{
+        padding: 0;
+    }
+
+    .top-header-hidden{
+        display: none !important;
+    }
+
+    .sponsor1 img{
+        border: 1px solid;
+        padding: 10px;
+        border-radius: 10px;
+        background: gainsboro;
+        width: 95%;
+        object-fit: contain;
+    }
+
+    .sponsor1{
+        display: flex;
+        justify-content: center;
+    }
+
+    .formation-mobile ul{
+        text-align: center;
+    }
+
+}
