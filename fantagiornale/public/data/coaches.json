@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Fabio Crivellari",
+    "teamName": "Baret Porco ***",
+    "nickname": "",
+    "style": "Omofobo",
+    "strength": "Aste semidecenti",
+    "weakness": "Formazioni che ruotano poco",
+    "quote": "Madonna con Leao e KDB faccio il disastro"
+  },
+  {
+    "id": 2,
+    "name": "Fabio Salono",
+    "teamName": "FC HORTOMUSO",
+    "nickname": "",
+    "style": "Fascista",
+    "strength": "Formazioni studiate a puntino",
+    "weakness": "Si fa prendere dalla rabbia",
+    "quote": "Secondo me Vlahovic spacca tutto"
+  },
+    {
+    "id": 3,
+    "name": "Simone Salto & Alberto Bollea",
+    "teamName": "Coca JR",
+    "nickname": "",
+    "style": "Omosessuali",
+    "strength": "Colpi a sorpresa all'asta",
+    "weakness": "Poca compatbilità tra allenatori",
+    "quote": "Non dateci la penalità, ci siamo dimenticati in due la formazione, siamo scusati"
+  },
+    {
+    "id": 4,
+    "name": "Andrey Trifoi",
+    "teamName": "Monaci di tibete",
+    "nickname": "",
+    "style": "Rumeno",
+    "strength": "Squadra sempre ben strutturata",
+    "weakness": "Non sa fare gli scambi",
+    "quote": ""
+  },
+    {
+    "id": 5,
+    "name": "Matteo Baret",
+    "teamName": "Godo Godo Godo 3 Stelle",
+    "nickname": "",
+    "style": "Milanese",
+    "strength": "Asta fatta con strategia",
+    "weakness": "Troppa strategia lo porta a fare una squadra di merda",
+    "quote": ""
+  },
+    {
+    "id": 6,
+    "name": "Alexandro Ani",
+    "teamName": "CAT'S Amari",
+    "nickname": "",
+    "style": "Rumeno 2",
+    "strength": "Squadra che non sembra strutturata male",
+    "weakness": "La formazione manca 1 partita su 3",
+    "quote": ""
+  },
+    {
+    "id": 7,
+    "name": "Simone Aimaro",
+    "teamName": "ST Pauli Bonolis",
+    "nickname": "",
+    "style": "Cascine Gradi",
+    "strength": "Grandi colpi a centrocampo/attacco",
+    "weakness": "Il resto della squadra pecca",
+    "quote": ""
+  },
+    {
+    "id": 8,
+    "name": "Francesco Pietro Frassà",
+    "teamName": "Brigate Ebosse",
+    "nickname": "",
+    "style": "Ariete",
+    "strength": "Grandissime squadre sempre ben fatte",
+    "weakness": "A volte il calendario gli gioca brutti scherzi",
+    "quote": ""
+  },
+    {
+    "id": 9,
+    "name": "Alessandro Lana & Daniel Muci",
+    "teamName": "Joga Benito",
+    "nickname": "",
+    "style": "Superfascista",
+    "strength": "Squadra equilibrata che sembra quasi ben fatta",
+    "weakness": "Troppa Roma e poco cervello",
+    "quote": ""
+  },
+    {
+    "id": 10,
+    "name": "Alessandro Regis",
+    "teamName": "Cairo Vattene FC",
+    "nickname": "",
+    "style": "Alcolizzato",
+    "strength": "Formazioni e asta di buon livello",
+    "weakness": "Alcool e Torino gli giocano brutti scherzi",
+    "quote": ""
+  }
+]

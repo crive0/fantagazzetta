@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "coachName": "Fabio Crivellari",
+    "teamName": "Baret Porco ***",
+    "vote": "4.5",
+    "title": "Testa all'anno prossimo",
+    "comment": "Stagione che all'asta sembrava impostata bene, con una squadra che potenzialmente aveva il suo perchè.\nBastano però solo un paio di giornate per capire immediatamente che la squadra non girerà e che più che una squadra sembra la raccolta differenziata per quanti bidoni sono stati acquistati.",
+    "award": "Netturbino"
+  },
+  {
+    "id": 2,
+    "coachName": "Fabio Salono",
+    "teamName": "FC HORTOMUSO",
+    "vote": "4",
+    "title": "Tanti nomi, poca direzione",
+    "comment": "Rosa piena di nomi da copertina e di promesse da bar: Kean, Scamacca, Vlahovic, Fullkrug, Politano, Zaniolo. Sulla carta sembrava una squadra da playoff morali, nella pratica ha chiuso settima con 43 punti.\nIl problema non era l'assenza di talento, era il fatto che ogni talento sembrava giocare una stagione diversa dagli altri.",
+    "award": "Zingaro d'oro"
+  },
+  {
+    "id": 3,
+    "coachName": "Simone Salto & Alberto Bollea",
+    "teamName": "Coca JR",
+    "vote": "3.5",
+    "title": "La penalizzazione come alibi, ma non solo",
+    "comment": "La classifica dice ottavo posto e quel -9 pesa, inutile far finta di niente. Però la rosa aveva abbastanza materiale per non vivere solo di ricorsi: Yildiz e Hojlund davano scintille, Gudmundsson e Cambiaso promettevano bonus, ma la scarsa intesa tra i coach porta poi a rotture che si vedono in campo, gestione complessiva da verbale della Procura.",
+    "award": "Procura Federale"
+  },
+  {
+    "id": 4,
+    "coachName": "Andrey Trifoi",
+    "teamName": "Monaci di tibete",
+    "vote": "8+",
+    "title": "Secondi con la faccia da primi mancati",
+    "comment": "Stagione quasi monastica: pochi isterismi, tanti punti e una rosa che ha spremuto bene il solito blocco Inter e i bonus distribuiti. Berardi, Barella, Vlasic e Douvikas hanno tenuto accesa la macchina, anche se l'investimento su Raspadori gridava vendetta ogni volta che entrava dalla panchina.\nArrivare secondo, a pari punti con il terzo ma davanti, è un piccolo capolavoro che fa godere un po tutti quanti.",
+    "award": "Grappa d'oro"
+  },
+  {
+    "id": 5,
+    "coachName": "Matteo Baret",
+    "teamName": "Godo Godo Godo 3 Stelle",
+    "vote": "3",
+    "title": "Tre stelle nel nome, poche in campo",
+    "comment": "La squadra sembrava costruita per vivere di fiammate: Soulé, De Ketelaere, Neres, Lukaku, Isaksen. Il problema è che le fiammate sono state più rare dei messaggi nel gruppo WhatsApp.\nNono posto, 41 gol fatti e 63 subiti: più che Godo Godo Godo, spesso è stato Soffro Soffro Soffro.",
+    "award": "Stella Cadente"
+  },
+  {
+    "id": 6,
+    "coachName": "Alexandro Ani",
+    "teamName": "CAT'S Amari",
+    "vote": "1",
+    "title": "Ultimo posto con dignità discutibile",
+    "comment": "Il voto 1 è crudele, ma il decimo posto lo difende con argomenti solidi: peggior totale punti, peggior differenza reti e una stagione passata a cercare segnali di vita.\nMcTominay, Da Cunha e Vardy qualcosa hanno dato, ma non abbastanza per salvare CAT'S Amari dal baratro in cui è poi sprofondato.",
+    "award": "Cucchiaio di Legno"
+  },
+  {
+    "id": 7,
+    "coachName": "Simone Aimaro",
+    "teamName": "ST Pauli Bonolis",
+    "vote": "5",
+    "title": "Quinto posto, ma con la difesa aperta",
+    "comment": "La rosa aveva spina dorsale vera: Sommer, Dimarco, Bastoni, Orsolini, Thuram. Infatti i 59 gol fatti raccontano una squadra viva. Poi però i 60 gol subiti e la differenza reti negativa spiegano perché non è mai diventata davvero pericolosa per il podio.\nStagione da bicchiere mezzo pieno, ma bucato sotto.",
+    "award": "Colabrodo"
+  },
+  {
+    "id": 8,
+    "coachName": "Francesco Pietro Frassà",
+    "teamName": "Brigate Ebosse",
+    "vote": "10",
+    "title": "Campionato dominato, non semplicemente vinto",
+    "comment": "Primo posto, 66 punti, miglior attacco e sensazione costante di avere sempre il bonus giusto al momento giusto. Lautaro e Malen hanno fatto il lavoro sporco e pulito, Pulisic e Rabiot hanno aggiunto qualità, Maignan ha dato struttura.\nSquadra forte, fastidiosa e soprattutto abbastanza continua da rendere inutili le lamentele degli altri.",
+    "award": "Ariete d'Oro"
+  },
+  {
+    "id": 9,
+    "coachName": "Alessandro Lana & Daniel Muci",
+    "teamName": "Joga Benito",
+    "vote": "7-",
+    "title": "Quarto con la sindrome del pareggio",
+    "comment": "La rosa era seria, ordinata e molto meno razzista del nome: Meret, N'Dicka, Solet, McKennie, Davis e un attacco pieno di soluzioni. Il problema sono quei 13 pareggi, troppi per chi voleva davvero salire sul podio.\nSquadra difficile da battere, ma anche troppo spesso incapace di dare il colpo finale.",
+    "award": "Pareggite Cronica"
+  },
+  {
+    "id": 10,
+    "coachName": "Alessandro Regis",
+    "teamName": "Cairo Vattene FC",
+    "vote": "8",
+    "title": "Podio costruito più con i pianti che con fuochi d'artificio",
+    "comment": "Terzo posto arrivato all'ultima curva con sorpasso fatto da un veicolo targato romania. Svilar, Dumfries, Dodò e Bellanova hanno dato struttura, mentre Nico Paz e Bonazzoli hanno portato bonus pesanti quando serviva, peccato che non siano stati abbastanza...",
+    "award": "Catenaccio Moderno"
+  }
+]

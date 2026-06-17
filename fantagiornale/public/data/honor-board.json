@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "season": "2025/2026",
+    "coachName": "Francesco Pietro Frassà",
+    "position": 1,
+    "points": 66,
+    "tag": "Campione"
+  },
+  {
+    "id": 2,
+    "season": "2024/2025",
+    "coachName": "Matteo Baret",
+    "position": 1,
+    "points": "-",
+    "tag": "Campione"
+  },
+    {
+    "id": 3,
+    "season": "2023/2024",
+    "coachName": "Daniel Muci & Alessandro Lana",
+    "position": 1,
+    "points": "-",
+    "tag": "Campione"
+  },
+    {
+    "id": 4,
+    "season": "2022/2023",
+    "coachName": "Matteo Baret",
+    "position": 1,
+    "points": "-",
+    "tag": "Campione"
+  },
+    {
+    "id": 5,
+    "season": "2021/2022",
+    "coachName": "Simone Salto",
+    "position": 1,
+    "points": "-",
+    "tag": "Campione"
+  },
+    {
+    "id": 6,
+    "season": "2020/2021",
+    "coachName": "Matteo Baret",
+    "position": 1,
+    "points": "-",
+    "tag": "Campione"
+  },
+      {
+    "id": 7,
+    "season": "2019/2020",
+    "coachName": "Fabio Crivellari",
+    "position": 1,
+    "points": "-",
+    "tag": "Campione"
+  },
+      {
+    "id": 8,
+    "season": "2018/2019",
+    "coachName": "Fabio Salono",
+    "position": 1,
+    "points": "-",
+    "tag": "Campione"
+  }
+]
